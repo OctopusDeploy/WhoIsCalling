@@ -4,7 +4,7 @@ WhoIsCalling
 Quick little .NET 4 console app that listens for inbound TCP connections and prints the client port.
 
 
-[Screenshot](https://github.com/OctopusDeploy/WhoIsCalling/raw/master/images/Screenshot.png)
+![Screenshot](https://github.com/OctopusDeploy/WhoIsCalling/raw/master/images/Screenshot.png)
 
 Usage
 -----
